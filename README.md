@@ -1,1 +1,1 @@
-Compilation of Laboratory Activity in COSC111
+Compilation of Laboratory Activity in COSC111.
